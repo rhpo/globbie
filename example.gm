@@ -1,9 +1,5 @@
-def hello name age:
-	def hi lol:
-		return "nami"
-    end
-
-	print(nami(rez))
+def getSum a b:
+  return a + b
 end
 
-hello("Ramy")
+print getSum(2, 4)
