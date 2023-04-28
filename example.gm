@@ -1,0 +1,9 @@
+def hello name age:
+	def hi lol:
+		return "nami"
+    end
+
+	print(nami(rez))
+end
+
+hello("Ramy")
