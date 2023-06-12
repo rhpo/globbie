@@ -24,7 +24,7 @@ var DATATYPES = {
 
 const database = {
     variables: {
-        'pred': new Variable('pred', "hello Nigger!"),
+        'foo': new Variable('foo', "hello Fooie!"),
     }
 }
 class Proton {
